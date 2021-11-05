@@ -1,0 +1,44 @@
+.comentario{
+  margin: 15px;
+  padding: 20px;
+  
+}
+.comment-container{
+  position:relative;
+  width:80%;
+  height: 800px;
+  background: #f9f3f3;
+  margin:auto;
+  border-radius:5px;
+
+}
+.logo{
+  position: flex;
+  height: 200px;
+}
+p {
+  text-align: justify;
+}
+
+a {
+  color: #0066b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+body {
+  padding: 0.25em;
+  font-family: 'Lato', sans-serif;
+  background-color: #132c33;
+}

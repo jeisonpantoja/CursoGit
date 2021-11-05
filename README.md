@@ -1,6 +1,6 @@
 # #LatinasCodeCamp
 
-Este repositorio hace parte del curso de control de versiones con Git y GitHub.
+Este repositorio hace parte del curso de control de versiones con Git y GitHub dado mediante la plataforma de Youtube.
 
 ## Reglas del repositorio
 
@@ -14,7 +14,7 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 - Agrega cambios a los archivos del repositorio y publicalos.
 - Solicita un 'Pull Request' con tus cambios.
 
-## Autoras
+## Autores
 
 - **Alex Camacho** - [alexcamachogz](https://github.com/alexcamachogz)
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
